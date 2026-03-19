@@ -8,7 +8,7 @@ Probabilistic Modeling: lifetimes (BG/NBD & Gamma-Gamma Models)
 
 Machine Learning: Scikit-learn (K-Means Clustering)
 
-Business Intelligence: Power BI (DAX, Geospatial Heatmaps, Interactive Slicers)
+Business Intelligence: Power BI 
 
 ## Key Data Science Implementations
 1. Predictive CLV Modeling
